@@ -1,5 +1,5 @@
 # AccountDatabase
-<p>In this project I building a data Model and database using Python.</p>
+<p>In this project I building a data Model and accounts database using Python.</p>
 
 <h4>What I learned with this project:</h4>
 <p>✅Python</p>
